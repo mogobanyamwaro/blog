@@ -2,6 +2,8 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
-    "blog-backend": "apps/blog-backend"
+    "blog-backend": "apps/blog-backend",
+    "blog-frontend": "apps/blog-frontend",
+    "blog-frontend-e2e": "apps/blog-frontend-e2e"
   }
 }
